@@ -11,9 +11,8 @@ Then download spacy data by executing the following command:
 
 ```
 python -m spacy download en
-Note: Python 3.6 is required to run our code.
 ```
-
+> Note: Python 3.6 is required to run our code.
 
 
 # Data preparation
