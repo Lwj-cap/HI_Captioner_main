@@ -18,11 +18,7 @@ Note: Python 3.6 is required to run our code.
 
 # Data preparation
 
-To run the code, annotations and detection features for the COCO dataset are needed. Please download the annotations file annotations.zip
-
-[annotations.zip]: https://ailb-web.ing.unimore.it/publicfiles/drive/meshed-memory-transformer/annotations.zip
-
- and extract it.
+To run the code, annotations and detection features for the COCO dataset are needed. Please download the annotations file annotations.zip [annotations.zip](https://ailb-web.ing.unimore.it/publicfiles/drive/meshed-memory-transformer/annotations.zip "点击下载annotations.zip") and extract it.
 
 
 
